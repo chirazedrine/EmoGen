@@ -37,23 +37,19 @@ Below is a list of documentation for the key components and dataset used in this
 ### EmoSet Dataset
 
 The EmoSet dataset comprises images annotated with eight different emotion categories (amusement, anger, awe, contentment, disgust, excitement, fear, sadness) and several descriptive attributes (brightness, colorfulness, facial expression, etc.).
-
-- **Dataset Source**: [EmoSet Documentation](https://vcc.tech/EmoSet)
+[EmoSet Documentation](https://vcc.tech/EmoSet)
 
 ### PyTorch
 
 PyTorch was used in this project for model development, training, and evaluation.
-
-- **PyTorch Documentation**: [official PyTorch website](https://pytorch.org/docs/).
+[official PyTorch website](https://pytorch.org/docs/).
 
 ### ResNet-50 Model
 
 The ResNet-50 model, a deep residual network, is utilized as the backbone for the emotion classification task in this project. It is pre-trained on ImageNet and adapted for emotion classification.
-
-- **ResNet-50 Documentation**: [Deep Residual Learning for Image Recognition paper](https://arxiv.org/abs/1512.03385).
+[Deep Residual Learning for Image Recognition paper](https://arxiv.org/abs/1512.03385).
 
 ### Google Colab
 
 Google Colab was used to develop and execute the project code.
-
-- **Google Colab Documentation**: [Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb).
+[Colab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb).
